@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(240,236,224);
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    }
+    
+nav a{
+        text-decoration: none; 
+    }

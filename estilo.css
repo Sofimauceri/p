@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(240,236,224);
+}
+h1{
+text-align: center;
+font-family:'Montserrat', sans-serif;
+color:#dd6488
+}
+
+nav ul{
+list-style: none;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+nav a{
+    text-decoration: none; 
+}
+
+
+.titulo{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+     }
+
+footer {
+    color:#dd6488
+}
+footer a{
+    text-decoration: none;
+    color:#dd6488  
+}
+
+    
+ 
+
